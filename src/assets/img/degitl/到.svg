@@ -1,0 +1,15 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.08 145.42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #b5b5b6;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 13px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M250.82,257.61l55.75,55.75a14.79,14.79,0,0,1,0,20.92L250.82,390"
+    transform="translate(-244.32 -251.11)" />
+</svg>

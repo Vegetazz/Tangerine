@@ -1,0 +1,249 @@
+{
+  "data": {
+    "swiper": [
+      {
+        "src": "https://s11.mogucdn.com/mlcdn/776a41/210303_82jl7c2gia7fe1ic02g3ka359103g_750x1000.png_640x960.v1cAC.70.webp",
+        "width": 260,
+        "height": 346
+      },
+      {
+        "src": "https://s5.mogucdn.com/mlcdn/c45406/200804_7c07i6b7lfejk8aj951ba39a13eic_640x960.jpg_640x960.v1cAC.70.webp",
+        "width": 260,
+        "height": 390
+      }
+    ],
+    "goodBesMes": {
+      "price": 98.7,
+      "introduce": "碎花雪纺连衣裙2021春新款波点长袖桔梗收腰显瘦气质长款裙子",
+      "postage": -1,
+      "place": "广东广州"
+    },
+    "discount": [
+      {
+        "countNum": "3",
+        "condition": "满80元立减",
+        "useTime": "2021.1.2 09:48-2021.6.10 23:59"
+      },
+      {
+        "countNum": "5",
+        "condition": "满120元立减",
+        "useTime": "2021.1.2 09:49-2021.6.10 23:59"
+      },
+      {
+        "countNum": "10",
+        "condition": "满200元立减",
+        "useTime": "2021.1.2 09:50-2021.6.10 23:59"
+      }
+    ],
+    "promice": [
+      {
+        "title": "72小时发货",
+        "value": ""
+      },
+      {
+        "title": "7天无理由退货",
+        "value": "物流签收后7天内买家可无理由退货，需满足退货条件"
+      },
+      {
+        "title": "延误必赔",
+        "value": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+      },
+      {
+        "title": "退货补运费",
+        "value": "用户发起退货且绑定提现银行卡，可获6-18元运费补贴"
+      },
+      {
+        "title": "全国包邮",
+        "value": ""
+      }
+    ],
+    "size" : {
+      "color": [
+        {
+          "color" : "黄色",
+          "number": 0,
+          "imgLink": "https://s5.mogucdn.com/mlcdn/c45406/200804_2dek0l7cg7027gl942f09cc2gaih7_640x960.jpg_128x999.jpg",
+          "stock" : 685
+        },
+        {
+          "color" : "黑色",
+          "number": 1,
+          "imgLink": "https://s11.mogucdn.com/mlcdn/c45406/191228_27f9ff1g5kb5jf4k9aig478k82kl5_5999x8998.jpg_128x999.jpg",
+          "stock" : 690
+        }
+      ],
+      "size": [
+        {
+          "title": "S",
+          "stock": [165,177]
+        },
+        {
+          "title": "M",
+          "stock": [166,168]
+        },
+        {
+          "title": "L",
+          "stock": [172,175]
+        },
+        {
+          "title": "XL",
+          "stock": [182,170]
+        }
+      ]
+    },
+    "evaluate": {
+      "number": 3,
+      "salesvolume": 25,
+      "user": [
+        {
+          "userhead": "https://s5.mogucdn.com/mlcdn/5abf39/180306_03b8gk396j6a10jlelbicde632k51_640x640.jpg_48x48.webp",
+          "username": "陈夏晨",
+          "text": "该用户给出了5星好评。",
+          "time": "2020-10-01"
+        },
+        {
+          "userhead": "https://s11.mogucdn.com/mlcdn/c45406/210221_894ce1j4h1kehblhhcbee60k95hge_400x400.jpg_48x48.webp",
+          "username": "夏沫儿Alma",
+          "text": "该用户给出了5星好评。",
+          "time": "2020-08-18"
+        }
+      ]
+    },
+    "shop": {
+      "shophead": "https://s5.mogucdn.com/b7/avatar/140108/ecm19_kqzesucxkrbfqzcugfjeg5sckzsew_200x200.jpg_120x120.webp",
+      "shophref": "https://m.mogu.com/v8/meili/shop?shopid=1172w01c&ptp=32.GrPvGb.0.0.bwPiuZh",
+      "shopname": "小慕美衣",
+      "shopstar": 3,
+      "shopnum": 258,
+      "label": ["5.1万人关注", "累计销量13.6万+", "5年金招牌"]
+    },
+    "goodimgs": [
+      "https://s11.mogucdn.com/mlcdn/c45406/200804_1je8ai9g022b38e0cg5a6669dlf2k_800x799.jpg_468x468.webp",
+      "https://s5.mogucdn.com/mlcdn/c45406/200804_18fbj5k597f7390hekg9e5c1ea5h6_800x799.jpg_468x468.webp",
+      "https://s11.mogucdn.com/mlcdn/c45406/200804_47kg4ka56872b6jgeee15fjlbgbk2_800x800.jpg_468x468.webp",
+      "https://s11.mogucdn.com/mlcdn/c45406/200804_26c52dib6078lj6224673haik4e4k_800x799.jpg_468x468.webp",
+      "https://s11.mogucdn.com/mlcdn/c45406/200804_54kkec6bc5a9k9jdi6gcgikagb4h2_800x799.jpg_468x468.webp",
+      "https://s5.mogucdn.com/mlcdn/c45406/200804_3ad4l6j0f0d4kjk0a6a6j698jcj77_800x916.jpg_468x468.webp",
+      "https://s5.mogucdn.com/mlcdn/c45406/200804_0j9a5lil8i9k9k60ifgc60ldlkaeb_800x799.jpg_468x468.webp",
+      "https://s5.mogucdn.com/mlcdn/c45406/200804_0l3037ebjhecia99548k88he7d76e_800x800.jpg_468x468.webp",
+      "https://s5.mogucdn.com/mlcdn/c45406/200804_4972h7ige363ich7dl12hibg2l8kj_800x799.jpg_468x468.webp",
+      "https://s11.mogucdn.com/mlcdn/c45406/200804_1b2j698kgkgjj60b12la7bg1ifb50_688x506.jpg_468x468.webp",
+      "https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp"
+    ],
+    "advantage": {
+      "number": 17,
+      "key": [
+        "图案",
+        "裙型",
+        "版型",
+        "材质",
+        "风格",
+        "尺码",
+        "季节",
+        "裙长",
+        "腰型",
+        "组合形式",
+        "袖长",
+        "颜色",
+        "开衩",
+        "衣门襟",
+        "摆型",
+        "领型",
+        "潮流"
+      ],
+      "value": [
+        "圆点/波点",
+        "大摆型",
+        "收腰",
+        "雪纺",
+        "甜美",
+        "S,XL,L,M",
+        "春秋",
+        "中长裙（106-125cm）",
+        "高腰",
+        "单件",
+        "长袖",
+        "图片色",
+        "无开衩",
+        "套头",
+        "常规",
+        "V领",
+        "韩系"
+      ]
+    },
+    "recommend": [
+      {
+        "goodlink": "https://h5.mogu.com/detail-normal/index.html?itemId=1mv7irk&acm=3.mce.1_4_1mv7irk.5018.0-33202.r9fL8sqMEUyUG.sd_119_115-mid_5018-pos_132-pm_017-lc_201",
+        "goodimglink": "https://s11.mogucdn.com/mlcdn/c45406/200731_7hde3ll31g31h4i1lj9ah86e9g915_640x960.png_320x999.webp",
+        "goodtitle": "韩国2020秋新款法式少女小香风显瘦连衣裙少女心打底裙子潮女",
+        "goodprice": "¥69.3"
+      },
+      {
+        "goodlink": "https://h5.mogu.com/detail-normal/index.html?itemId=1mxhxr0&acm=3.mce.1_4_1mxhxr0.5018.0-33202.r9fL8sqMEUyUG.sd_119_115-mid_5018-pos_133-pm_017-lc_201",
+        "goodimglink": "https://s5.mogucdn.com/mlcdn/c45406/201114_4jg8kikflbb55il6j177cji115ja4_640x960.jpg_320x999.webp",
+        "goodtitle": "2020新款秋冬打底内搭性感法式气质修身显瘦杏色中长款连衣裙",
+        "goodprice": "¥98.7"
+      },
+      {
+        "goodlink": "https://h5.mogu.com/detail-normal/index.html?itemId=1mp8m5a&acm=3.mce.1_4_1mp8m5a.5018.0-33202.r9fL8sqMEUyUG.sd_119_115-mid_5018-pos_134-pm_017-lc_201&ptp=32.GrPvGb.0.0.ntGfRZTJ",
+        "goodimglink": "https://s11.mogucdn.com/mlcdn/c45406/191221_04c23g6ejidc922a9a2a2d2c4fai2_640x960.jpg_320x999.webp",
+        "goodtitle": "针织连衣裙女春季新款韩版时尚性感露肩打底毛衣裙小个子修身裙子",
+        "goodprice": "¥69.3"
+      },
+      {
+        "goodlink": "https://h5.mogu.com/detail-normal/index.html?itemId=1m787hy&acm=3.mce.1_4_1m787hy.5018.0-33202.r9fL8sqMEUyUG.sd_119_115-mid_5018-pos_135-pm_017-lc_201",
+        "goodimglink": "https://s5.mogucdn.com/mlcdn/c45406/180814_1aci9hc7gka52h61c321bkbj1gfg7_640x960.jpg_320x999.webp",
+        "goodtitle": "春季新款韩版长袖立领中长款蕾丝淑女连衣裙修身气质长裙小礼服仙",
+        "goodprice": "¥89.6"
+      },
+      {
+        "goodlink": "https://h5.mogu.com/detail-normal/index.html?itemId=1mp23ng&acm=3.mce.1_4_1mp23ng.5018.0-33202.r9fL8sqMEUyUG.sd_119_115-mid_5018-pos_136-pm_017-lc_201&ptp=32.GrPvGb.0.0.ntGfRZTJ",
+        "goodimglink": "https://s11.mogucdn.com/mlcdn/c45406/191216_05g9d3k2k3k5f7bg6d980ach7f0j9_640x960.jpg_320x999.webp",
+        "goodtitle": "V领雪纺连衣裙2021春装法式小众仙女长裙大码收腰显瘦气质裙",
+        "goodprice": "¥89.6"
+      },
+      {
+        "goodlink": "https://h5.mogu.com/detail-normal/index.html?itemId=1mpj2p4&acm=3.mce.1_4_1mpj2p4.5018.0-33202.r9fL8sqMEUyUG.sd_119_115-mid_5018-pos_137-pm_017-lc_201",
+        "goodimglink": "https://s11.mogucdn.com/mlcdn/c45406/191229_8ccii448i3fie73bei74i80ffc0aj_640x960.jpg_320x999.webp",
+        "goodtitle": "小个子亮片吊带裙女春装新款小黑裙裹身夜店蹦迪性感连衣裙小礼服",
+        "goodprice": "¥98.7"
+      },
+      {
+        "goodlink": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvo93a&acm=3.mce.1_4_1mvo93a.5018.0-33202.r9fL8sqMEUyUG.sd_119_115-mid_5018-pos_138-pm_017-lc_201",
+        "goodimglink": "https://s5.mogucdn.com/mlcdn/c45406/200825_135kdg9c14khf1hf48c55k0beaf3i_640x960.jpg_320x999.webp",
+        "goodtitle": "2021春装新款连衣裙海军领深蓝色早春长袖名媛高端气质小个子",
+        "goodprice": "¥89.6"
+      },
+      {
+        "goodlink": "https://h5.mogu.com/detail-normal/index.html?itemId=1mp0cd8&acm=3.mce.1_4_1mp0cd8.5018.0-33202.r9fL8sqMEUyUG.sd_119_115-mid_5018-pos_139-pm_017-lc_201&ptp=32.GrPvGb.0.0.ntGfRZTJ",
+        "goodimglink": "https://s11.mogucdn.com/mlcdn/c45406/191215_7l1387jgd2fkc37cl689ce8bj7ia0_640x960.jpg_320x999.webp",
+        "goodtitle": "春装新款设计感小个子连衣裙女外穿网纱拼接晚礼服小黑裙a字裙子",
+        "goodprice": "¥129.5"
+      },
+      {
+        "goodlink": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvghmy&acm=3.mce.1_4_1mvghmy.5018.0-33202.r9fL8sqMEUyUG.sd_119_115-mid_5018-pos_140-pm_017-lc_201",
+        "goodimglink": "https://s5.mogucdn.com/mlcdn/c45406/200813_84hda18j70357b8h937i83h0g7h4a_640x960.jpg_320x999.webp",
+        "goodtitle": "法式复古褶皱连衣裙名媛气质植绒艺术感裙子温柔风鱼尾裙长袖秋季",
+        "goodprice": "¥89.6"
+      },
+      {
+        "goodlink": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvyv52&acm=3.mce.1_4_1mvyv52.5018.0-33202.r9fL8sqMEUyUG.sd_119_115-mid_5018-pos_141-pm_017-lc_201",
+        "goodimglink": "https://s5.mogucdn.com/mlcdn/c45406/200908_0487hg3ig572di8c5bcc27jf0fcel_640x960.jpg_320x999.webp",
+        "goodtitle": "小个子短款收腰显瘦红色长袖针织连衣裙秋装网红新款酒红色裙子潮",
+        "goodprice": "¥89.6"
+      },
+      {
+        "goodlink": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvyuza&acm=3.mce.1_4_1mvyuza.5018.0-33202.r9fL8sqMEUyUG.sd_119_115-mid_5018-pos_142-pm_017-lc_201",
+        "goodimglink": "https://s5.mogucdn.com/mlcdn/c45406/200908_21a79acck03364b89jgkc625k879k_640x960.jpg_320x999.webp",
+        "goodtitle": "西装连衣裙网红早秋新款韩版修身小众设计感英伦风西服外套女上衣",
+        "goodprice": "¥98"
+      },
+      {
+        "goodlink": "https://h5.mogu.com/detail-normal/index.html?itemId=1mvght2&acm=3.mce.1_4_1mvght2.5018.0-33202.r9fL8sqMEUyUG.sd_119_115-mid_5018-pos_143-pm_017-lc_201",
+        "goodimglink": "https://s5.mogucdn.com/mlcdn/c45406/200813_3iihij87ecb9hbldkgj436e3eie76_640x960.jpg_320x999.webp",
+        "goodtitle": "西装外套连衣裙秋装2020新款收腰显瘦千鸟格泡泡袖小个子裙子",
+        "goodprice": "¥109.9"
+      }
+    ]
+  }
+}
